@@ -15,6 +15,18 @@ Los deze op
 - student 2 cloned de repo van student 1
 - student 1 werkt op de main
 - student 2 maakt een nieuwe branch met de naam feature
+'''
+git branch feature
+'''
+- student 2 checked feature uit
+
+'''
+git checkout feature
+'''
+- student 2 pushed deze meteen even naar de repo
+'''
+git push --set-upstream origin feature
+'''
 
 ## oefening
 -
