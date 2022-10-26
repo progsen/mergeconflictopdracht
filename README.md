@@ -5,7 +5,7 @@ Maak van 3 verschillende merge conflicten
 - deleted file
 - zelfde regel
 - nieuwe regels beide houden
-Los deze op
+Los deze op..
 
 
 ## voorbereiding
