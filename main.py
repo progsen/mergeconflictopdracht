@@ -12,6 +12,9 @@ def basicHaiku():
 
 #zet hier je haiku functie neer, zie https://github.com/progsen/haikugitopdracht voor ideeen
 
+def student2Haiku():
+    return["An old silent pond... A frog jumps into the pond, splash! Silence again."]
+
 haikus = [
     basicHaiku()
 ]
