@@ -15,18 +15,18 @@ Los deze op
 - student 2 cloned de repo van student 1
 - student 1 werkt op de main
 - student 2 maakt een nieuwe branch met de naam feature
-'''
+```
 git branch feature
-'''
+```
 - student 2 checked feature uit
 
-'''
+```
 git checkout feature
-'''
+```
 - student 2 pushed deze meteen even naar de repo
-'''
+```
 git push --set-upstream origin feature
-'''
+```
 
 ## oefening: deleted file
 - student 1 werkt op main
@@ -41,9 +41,9 @@ git push --set-upstream origin feature
 - push!
 - pull alletwee
 - bij student 1 mergen we nu feature in main
-'''
+```
 git merge feature
-'''
+```
 - los samen het merge conflict op
 - add, commit, push
 - pull alletwee
@@ -68,9 +68,9 @@ git merge feature
 - push!
 - pull alletwee
 - bij student 1 mergen we nu feature in main
-'''
+```
 git merge feature
-'''
+```
 - los samen het merge conflict op, zorg dat jullie beide changes blijven bestaan
 - add, commit, push
 - pull alletwee
@@ -84,17 +84,17 @@ git merge feature
 
 - maak alletwee 1 haiku function erbij net als basicHaiku
 - noem de function student1Haiku of student2Haiku. Afhankelijk van welke rol jij hebt
-'''
+```
 zie https://github.com/progsen/haikugitopdracht voor ideeen
-'''
+```
 
 - student 1 + 2 commiten hun werk
 - push!
 - pull alletwee
 - bij student 1 mergen we nu feature in main
-'''
+```
 git merge feature
-'''
+```
 - los samen het merge conflict op
 - add, commit, push
 - pull alletwee
