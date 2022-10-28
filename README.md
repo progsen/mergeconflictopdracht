@@ -66,14 +66,14 @@ git merge feature
 - student 2 werkt op feature
 
 - de basicHaiku vinden we saai
-- verander alletwee 1 van de 3 regels, overleg wie welke veranderd
+- verander alletwee 1 van de 3 strings in de array (zie hieronder), overleg wie welke veranderd
 ```
 ["Toward those short trees","We saw a hawk descending","On a day in spring."]
 ```
 ### regel nummers:
-- Toward those short trees = 1
-- We saw a hawk descending = 2
-- On a day in spring. = 3
+- string 1 = Toward those short trees
+- string 2 = We saw a hawk descending
+- string 3 = On a day in spring.
 
 
 - student 1 + 2 commiten hun werk
