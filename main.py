@@ -8,7 +8,7 @@ oldgreeting.greet()
 
 
 def basicHaiku():
-    return ["Toward those short trees","We saw a hawk descending","On a day in spring."]
+    return ["Toward those short trees","We saw a hawk ascending","On a day in spring."]
 
 #zet hier je haiku functie neer, zie https://github.com/progsen/haikugitopdracht voor ideeen
 
