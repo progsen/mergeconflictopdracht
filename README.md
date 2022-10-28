@@ -40,6 +40,18 @@ git push --set-upstream origin feature
 
 - push!
 - pull alletwee
+- student 1 doet een checkout van feature:
+```
+git checkout feature
+```
+- student 1 doet een pull
+```
+git pull
+```
+- student 1 doet een checkout van main:
+```
+git checkout main
+```
 - bij student 1 mergen we nu feature in main
 ```
 git merge feature
@@ -67,6 +79,18 @@ git merge feature
 - student 1 + 2 commiten hun werk
 - push!
 - pull alletwee
+- student 1 doet een checkout van feature:
+```
+git checkout feature
+```
+- student 1 doet een pull
+```
+git pull
+```
+- student 1 doet een checkout van main:
+```
+git checkout main
+```
 - bij student 1 mergen we nu feature in main
 ```
 git merge feature
@@ -91,6 +115,18 @@ zie https://github.com/progsen/haikugitopdracht voor ideeen
 - student 1 + 2 commiten hun werk
 - push!
 - pull alletwee
+- student 1 doet een checkout van feature:
+```
+git checkout feature
+```
+- student 1 doet een pull
+```
+git pull
+```
+- student 1 doet een checkout van main:
+```
+git checkout main
+```
 - bij student 1 mergen we nu feature in main
 ```
 git merge feature
