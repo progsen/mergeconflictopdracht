@@ -55,12 +55,14 @@ git merge feature
 
 - de basicHaiku vinden we saai
 - verander alletwee 1 van de 3 regels, overleg wie welke veranderd
-'''
+```
 ["Toward those short trees","We saw a hawk descending","On a day in spring."]
-# Toward those short trees = 1
-# We saw a hawk descending = 2
-# On a day in spring. = 3
-'''
+```
+### regel nummers:
+- Toward those short trees = 1
+- We saw a hawk descending = 2
+- On a day in spring. = 3
+
 
 - student 1 + 2 commiten hun werk
 - push!
