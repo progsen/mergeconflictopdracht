@@ -32,9 +32,9 @@ git push --set-upstream origin feature
 - student 1 werkt op main
 - student 2 werkt op feature
 
-- student 1 past oldgreeting.py aan, zet een andere (nette!) tekst als greeting neer
-- student 2 maakt een newgreeting.py aan, en maakt een newgreeting function, met dezelfde tekst als de oude oldgreeting.py
-- student 2 delete oldgreeting.py
+- student 1 past oldgreeting.js aan, zet een andere (nette!) tekst als greeting neer
+- student 2 maakt een newgreeting.js aan, en maakt een newgreeting function, met dezelfde tekst als de oude oldgreeting.js
+- student 2 delete oldgreeting.js
 
 - student 1 + 2 commiten hun werk
 
@@ -103,8 +103,8 @@ git merge feature
 
 
 ## oefening: 
-- student 1 werkt op main in main.py
-- student 2 werkt op feature in main.py
+- student 1 werkt op main in main.js
+- student 2 werkt op feature in main.js
 
 - maak alletwee 1 haiku function erbij net als basicHaiku
 - noem de function student1Haiku of student2Haiku. Afhankelijk van welke rol jij hebt
