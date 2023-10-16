@@ -106,8 +106,8 @@ git merge feature
 - student 1 werkt op main in main.js
 - student 2 werkt op feature in main.js
 
-- maak alletwee 1 haiku function erbij net als basicHaiku
-- noem de function student1Haiku of student2Haiku. Afhankelijk van welke rol jij hebt
+- maak alle twee `1 haiku function erbij` net als basicHaiku
+- noem de function `student1Haiku` of `student2Haiku`. Afhankelijk van welke rol jij hebt
 ```
 zie https://github.com/progsen/haikugitopdracht voor ideeen
 ```
