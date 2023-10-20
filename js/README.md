@@ -43,13 +43,13 @@ git push --set-upstream origin feature
 
 - push!
 - pull alletwee
-- student 1 doet een checkout van feature:
-```
-git checkout feature
-```
 - student 1 doet een pull
 ```
 git pull
+```
+- student 1 doet een checkout van feature:
+```
+git checkout feature
 ```
 - student 1 doet een checkout van main:
 ```
