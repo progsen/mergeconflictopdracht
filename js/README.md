@@ -1,5 +1,8 @@
 # mergeconflictopdracht
 
+**!!!Lees de stappen goed, sla er geen over!
+**
+
 ## doelen:
 Maak van 3 verschillende merge conflicten
 - deleted file
