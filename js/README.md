@@ -67,6 +67,7 @@ git merge feature
 ## oefingen: dezelfde regel
 - student 1 werkt op main
 - student 2 werkt op feature
+  student 1 & 2 openen `main.js`
 
 - de basicHaiku vinden we saai
 - verander alletwee 1 van de 3 strings in de array (zie hieronder), overleg wie welke veranderd
